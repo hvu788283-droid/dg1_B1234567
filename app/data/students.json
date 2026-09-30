@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "mssv": "B1234567",
+    "ho_ten": "Nguyễn Văn A",
+    "lop": "DCNTT1",
+    "diem": 8.5
+  },
+  {
+    "id": 2,
+    "mssv": "B1234568",
+    "ho_ten": "Trần Thị B",
+    "lop": "DCNTT1",
+    "diem": 9.0
+  },
+  {
+    "id": 3,
+    "mssv": "B1234569",
+    "ho_ten": "Lê Văn C",
+    "lop": "DCNTT2",
+    "diem": 7.5
+  },
+  {
+    "id": 4,
+    "mssv": "B1234570",
+    "ho_ten": "Phạm Thị D",
+    "lop": "DCNTT2",
+    "diem": 8.0
+  },
+  {
+    "id": 5,
+    "mssv": "B1234571",
+    "ho_ten": "Hoàng Văn E",
+    "lop": "DCNTT3",
+    "diem": 6.8
+  }
+]
